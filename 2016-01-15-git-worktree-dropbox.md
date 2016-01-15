@@ -35,3 +35,6 @@ Now you can share `project-repo-dropbox` with team members via Dropbox and it wo
 If anyone tries this final step, or any of this let us know how it works!
 
 Anyone have suggestions for improvements or alternatives?
+
+
+(Cross posted at https://discuss.ropensci.org/t/peace-between-git-and-dropbox-with-git-worktree/289)
